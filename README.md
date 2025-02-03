@@ -7,7 +7,7 @@ Traditional power grids struggle to manage fluctuating renewable energy supply, 
 
 Technologies Used
 •	SQL – Data extraction, transformation, and storage
-•	Python – Predictive analytics using ARIMA/LSTM models
+•	Python – Predictive analytics using ARIMA/Random Forest models
 •	Power BI – Real-time monitoring and dashboard visualization
 
 Key Features
